@@ -1,7 +1,7 @@
 # Citizenship Test
 Canadian Citizenzhip Test Resources
 
-website: http://canadian.ml
+website: http://tonywww.github.io/citizenshiptest/
 
 
 ## 
